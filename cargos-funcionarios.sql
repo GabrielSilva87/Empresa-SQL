@@ -6,6 +6,7 @@ CREATE TABLE funcionarios (
 );
 
 INSERT INTO funcionarios (id, nome, cargo, salario) VALUES
-(1, 'João Silva', 'Gerente', 5000.00),
-(2, 'Maria Oliveira', 'Vendedora', 3000.00),
-(3, 'Carlos Pereira', 'Analista', 4000.00);
+(1, 'Gabriel da Silva', 'Gerente', 5000.00),
+(2, 'Carlos Oliveira', 'Vendedor', 3000.00),
+(3, 'José Machado', 'Analista', 4000.00),
+(4, 'Larissa Alves', 'Supervisor', 7000.00);
