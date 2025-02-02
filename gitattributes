@@ -1,2 +1,2 @@
 *.ext ling
-*.SQL ling=SQL
+*.sql ling=sql
